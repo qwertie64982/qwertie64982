@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/qwertie64982/qwertie64982/blob/main/peep.jpg" alt="My cat Peep!"></p>
+<p align="center"><img src="https://github.com/qwertie64982/qwertie64982/blob/main/peep.jpg" alt="Peep the cat!"></p>
+<p align="center"><i>Peep welcomes you 😸</i></p>
 
 ---
 
